@@ -14,6 +14,7 @@ im learning html & css
   <li>you dont use <a href="https://tonetags.carrd.co/"> tone indicators/tonetags </a>
   <li>you like okegom
   <li>most genshin fans
+  <li>you support zoophiles/you are a zoophile
  </ul>
   <text>will add more 2 dni later im too lazy
 <h2> BYI </h2>
@@ -42,7 +43,7 @@ im learning html & css
   <li> all of switch
 </ul>
 <h2> END </h2>
-<p>thats all... last updated 2/17/22 7:02 pm est ₍^._.^₎⟆</p>
+<p>thats all... last updated 2/17/22 9:48 pm est ₍^._.^₎⟆</p>
   <h3> NOTE: this is really only for people who play <a href="https://pony.town/"> <i>pony town</i> </a></h3>
 <!---
 knittingfish/knittingfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
