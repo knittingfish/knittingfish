@@ -1,5 +1,4 @@
 <img src="https://static.wikia.nocookie.net/ensemble-stars/images/3/3b/%28Smiling_Noble%29_Hiyori_Tomoe_CG2.png/revision/latest/scale-to-width-down/1000?cb=20200422115339">
-<h1> NOTE: this is really only for people who play <a href="https://pony.town/"> <i>pony town</i> </a>
 <h2> INFO </h2>
 
 hi! im fish! you can also call me quilt or kat!
@@ -44,6 +43,7 @@ im learning html & css
 </ul>
 <h2> END </h2>
 <p>thats all... last updated 2/17/22 7:02 pm est ₍^._.^₎⟆</p>
+  <h3> NOTE: this is really only for people who play <a href="https://pony.town/"> <i>pony town</i> </a></h3>
 <!---
 knittingfish/knittingfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
